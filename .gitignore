@@ -1,0 +1,7 @@
+mongo/*
+.history
+.vscode
+.idea
+.env
+.git
+__MACOSX
