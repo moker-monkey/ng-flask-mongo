@@ -1,3 +1,4 @@
+config/settings\ copy.py
 mongo/*
 .history
 .vscode
@@ -5,3 +6,4 @@ mongo/*
 .env
 .git
 __MACOSX
+__pycache__
