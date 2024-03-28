@@ -1,4 +1,4 @@
-config/settings\ copy.py
+flask/config/settings.py
 mongo/*
 .history
 .vscode
