@@ -1,0 +1,9 @@
+pymongo == 3.12.3
+flask
+flask-login
+pytz
+urllib3
+pycryptodome
+requests
+openpyxl
+pandas
