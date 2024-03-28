@@ -1,0 +1,1 @@
+import{c as e}from"./entry/index-DABNShW--1710921375309.js";import{Z as t,_ as c}from"./vue-CtuDRv_L.js";import"./antd-DyzPRwGU.js";const o={},s={class:"m-10 auth-page"};function a(r,_){return t(),c("div",s,"Test 角色可见")}const d=e(o,[["render",a],["__scopeId","data-v-71e78596"]]);export{d as default};
